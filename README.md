@@ -9,8 +9,8 @@ In this study, we aim to compare emotional expression across three distinct grou
 
   
 
-<img src="https://github.com/HanaHasan04/CHB_Lab/assets/100927079/a56f816a-df53-4d1a-a3c4-5966695ad031" alt="image1" width="400">
-<img src="https://github.com/HanaHasan04/CHB_Lab/assets/100927079/8c75b458-752c-4453-8ecd-5c90e518ae01" alt="image2" width="400">  
+<img src="https://github.com/HanaHasan04/CHB_Lab/assets/100927079/a56f816a-df53-4d1a-a3c4-5966695ad031" alt="image1" width="300">
+<img src="https://github.com/HanaHasan04/CHB_Lab/assets/100927079/8c75b458-752c-4453-8ecd-5c90e518ae01" alt="image2" width="300">  
 
-<img src="https://github.com/HanaHasan04/CHB_Lab/assets/100927079/813d0998-e51f-4d40-961f-a6566ad539b0" alt="image3" width="400">
-<img src="https://github.com/HanaHasan04/CHB_Lab/assets/100927079/2c6131bf-d7ee-465d-b114-4afc73c7a83d" alt="image4" width="400">
+<img src="https://github.com/HanaHasan04/CHB_Lab/assets/100927079/813d0998-e51f-4d40-961f-a6566ad539b0" alt="image3" width="300">
+<img src="https://github.com/HanaHasan04/CHB_Lab/assets/100927079/2c6131bf-d7ee-465d-b114-4afc73c7a83d" alt="image4" width="300">
