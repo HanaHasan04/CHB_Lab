@@ -94,19 +94,20 @@ The confusion matrix is presented along with the accuracy metric and the four mo
 
 **A separate classifier for each category (hearing, deaf, CODA speech, CODA sign):**
 
-![conf_hearing](webpage_files/emotion_classifier/conf_hearing.png) ![conf_CODA_speech](webpage_files/emotion_classifier/conf_CODA_speech.png) ![conf_deaf](webpage_files/emotion_classifier/conf_deaf.png) ![conf_CODA_sign](webpage_files/emotion_classifier/conf_CODA_sign.png)
+![conf_hearing](webpage_files/emotion_classifier/conf_hearing.png) ![conf_CODA_speech](webpage_files/emotion_classifier/conf_CODA speech.png) ![conf_deaf](webpage_files/emotion_classifier/conf_deaf.png) ![conf_CODA_sign](webpage_files/emotion_classifier/conf_CODA sign.png)
 
-![feat_hearing](webpage_files/emotion_classifier/feat_hearing.png) ![feat_CODA_speech](webpage_files/emotion_classifier/feat_CODA_speech.png) ![feat_deaf](webpage_files/emotion_classifier/feat_deaf.png) ![feat_CODA_sign](webpage_files/emotion_classifier/feat_CODA_sign.png)
+![feat_hearing](webpage_files/emotion_classifier/feat_hearing.png) ![feat_CODA_speech](webpage_files/emotion_classifier/feat_CODA speech.png) ![feat_deaf](webpage_files/emotion_classifier/feat_deaf.png) ![feat_CODA_sign](webpage_files/emotion_classifier/feat_CODA sign.png)
 
 **A separate classifier for signers (hearing, CODA speech) and speakers (deaf, CODA sign):**
 
-![conf_hearing_CODA_speech](webpage_files/emotion_classifier/conf_hearing_CODA_speech.png) ![conf_deaf_CODA_sign](webpage_files/emotion_classifier/conf_deaf_CODA_sign.png)
+![conf_hearing_CODA_speech](webpage_files/emotion_classifier/conf_hearing_CODA speech.png) ![conf_deaf_CODA_sign](webpage_files/emotion_classifier/conf_deaf_CODA sign.png)
 
-![feat_hearing_CODA_speech](webpage_files/emotion_classifier/feat_hearing_CODA_speech.png) ![feat_deaf_CODA_sign](webpage_files/emotion_classifier/feat_deaf_CODA_sign.png)
+![feat_hearing_CODA_speech](webpage_files/emotion_classifier/feat_hearing_CODA speech.png) ![feat_deaf_CODA_sign](webpage_files/emotion_classifier/feat_deaf_CODA sign.png)
 
 **An all-category emotion classifier:**
 
-![conf_all_categories](webpage_files/emotion_classifier/conf_all_categories.png) ![feat_all_categories](webpage_files/emotion_classifier/feat_all_categories.png)
+<img src="webpage_files\emotion_classifier\conf_hearing_CODA speech_deaf_CODA sign.png" alt="data_dist_coda_sign" style="width: 300px; height: auto;">
+<img src="webpage_files\emotion_classifier\feat_hearing_CODA speech_deaf_CODA sign.png" alt="data_dist_coda_sign" style="width: 300px; height: auto;">
 
 **Category Classifier**
 
