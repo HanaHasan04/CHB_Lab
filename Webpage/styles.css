@@ -1,0 +1,50 @@
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f1e3dd;
+}
+
+h1 {
+  color: blue;
+  font-family: Andalus;
+}
+
+p1 {
+  font-size: 20px;
+  color: black;
+  font-family: Times New Roman;
+}
+
+p2 {
+  font-weight: bold;
+  font-size: 18px;
+  margin-top: 20px;
+  font-family: Georgia, "Times New Roman", Times, serif;
+}
+
+p3 {
+  font-weight: bold;
+  font-size: 19px;
+  margin-top: 20px;
+  font-family: Georgia, "Times New Roman", Times, serif;
+}
+
+p {
+  font-size: 16px;
+  font-family: Georgia, "Times New Roman", Times, serif;
+}
+
+img {
+  width: 300px;
+}
+
+#data-section p {
+  font-family: Georgia, "Times New Roman", Times, serif;
+  font-size: 16px;
+}
+
+#data-section ul,
+#data-section li {
+  font-family: Georgia, "Times New Roman", Times, serif;
+  font-size: 16px;
+}
+
